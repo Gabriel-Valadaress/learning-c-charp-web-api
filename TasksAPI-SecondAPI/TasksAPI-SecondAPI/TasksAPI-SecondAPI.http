@@ -1,0 +1,6 @@
+@TasksAPI_SecondAPI_HostAddress = http://localhost:5233
+
+GET {{TasksAPI_SecondAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

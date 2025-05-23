@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pk+UmlPY/BcPo7mtBgpExj0JSDGFLXbEbp2TQ/IoB7A=",
+  "Source": "TasksAPI-SecondAPI",
+  "BasePath": "_content/TasksAPI-SecondAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
