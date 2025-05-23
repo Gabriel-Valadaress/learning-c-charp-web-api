@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\C-Sharp-web-api\\APICatalog_FirstAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4459175C-F76A-45FA-B2FD-DADDAF0BA802}|APICatalog_FirstAPI\\APICatalog_FirstAPI.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\c-sharp-web-api\\apicatalog_firstapi\\apicatalog_firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4459175C-F76A-45FA-B2FD-DADDAF0BA802}|APICatalog_FirstAPI\\APICatalog_FirstAPI.csproj|solutionrelative:apicatalog_firstapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4459175C-F76A-45FA-B2FD-DADDAF0BA802}|APICatalog_FirstAPI\\APICatalog_FirstAPI.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\c-sharp-web-api\\apicatalog_firstapi\\apicatalog_firstapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4459175C-F76A-45FA-B2FD-DADDAF0BA802}|APICatalog_FirstAPI\\APICatalog_FirstAPI.csproj|solutionrelative:apicatalog_firstapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4459175C-F76A-45FA-B2FD-DADDAF0BA802}|APICatalog_FirstAPI\\APICatalog_FirstAPI.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\c-sharp-web-api\\apicatalog_firstapi\\apicatalog_firstapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4459175C-F76A-45FA-B2FD-DADDAF0BA802}|APICatalog_FirstAPI\\APICatalog_FirstAPI.csproj|solutionrelative:apicatalog_firstapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4459175C-F76A-45FA-B2FD-DADDAF0BA802}|APICatalog_FirstAPI\\APICatalog_FirstAPI.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\c-sharp-web-api\\apicatalog_firstapi\\apicatalog_firstapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4459175C-F76A-45FA-B2FD-DADDAF0BA802}|APICatalog_FirstAPI\\APICatalog_FirstAPI.csproj|solutionrelative:apicatalog_firstapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4459175C-F76A-45FA-B2FD-DADDAF0BA802}|APICatalog_FirstAPI\\APICatalog_FirstAPI.csproj|c:\\users\\gabri\\onedrive\\desktop\\programacao\\c-sharp-web-api\\apicatalog_firstapi\\apicatalog_firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4459175C-F76A-45FA-B2FD-DADDAF0BA802}|APICatalog_FirstAPI\\APICatalog_FirstAPI.csproj|solutionrelative:apicatalog_firstapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\C-Sharp-web-api\\APICatalog_FirstAPI\\APICatalog_FirstAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "APICatalog_FirstAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\C-Sharp-web-api\\APICatalog_FirstAPI\\APICatalog_FirstAPI\\Models\\Category.cs",
+              "RelativeToolTip": "APICatalog_FirstAPI\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T20:10:04.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\C-Sharp-web-api\\APICatalog_FirstAPI\\APICatalog_FirstAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "APICatalog_FirstAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\C-Sharp-web-api\\APICatalog_FirstAPI\\APICatalog_FirstAPI\\Models\\Product.cs",
+              "RelativeToolTip": "APICatalog_FirstAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T17:24:08.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\C-Sharp-web-api\\APICatalog_FirstAPI\\APICatalog_FirstAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "APICatalog_FirstAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\C-Sharp-web-api\\APICatalog_FirstAPI\\APICatalog_FirstAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "APICatalog_FirstAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:16:04.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\C-Sharp-web-api\\APICatalog_FirstAPI\\APICatalog_FirstAPI\\Program.cs",
+              "RelativeDocumentMoniker": "APICatalog_FirstAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\C-Sharp-web-api\\APICatalog_FirstAPI\\APICatalog_FirstAPI\\Program.cs",
+              "RelativeToolTip": "APICatalog_FirstAPI\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:13:39.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\C-Sharp-web-api\\APICatalog_FirstAPI\\APICatalog_FirstAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "APICatalog_FirstAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Desktop\\Programacao\\C-Sharp-web-api\\APICatalog_FirstAPI\\APICatalog_FirstAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "APICatalog_FirstAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:05:26.033Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

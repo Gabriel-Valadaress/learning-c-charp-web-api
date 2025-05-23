@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "WMlBOqq6sqvUywS1cVTuXbFSsNDiUMkTFt7pBVpL6Kc=",
+  "Source": "APICatalog_FirstAPI",
+  "BasePath": "_content/APICatalog_FirstAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
